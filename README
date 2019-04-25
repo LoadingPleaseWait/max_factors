@@ -1,0 +1,9 @@
+Compile:
+make
+
+Run:
+bin/max_factors a b k n
+
+**The program should be compiled and run on the same machine.**
+**The program needs ~16 GiB of memory to compile**
+**It looks like there is a bug in the gcc which you may run into during compilation. If compilation fails, please just run make again and it should work :)**
